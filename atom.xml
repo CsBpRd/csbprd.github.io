@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://csbprd.github.io</id>
+    <title>上海市延安初级中学</title>
+    <updated>2025-05-11T10:11:28.067Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://csbprd.github.io"/>
+    <link rel="self" href="https://csbprd.github.io/atom.xml"/>
+    <subtitle>2025七年级地理优秀寒假作业展示</subtitle>
+    <logo>https://csbprd.github.io/images/avatar.png</logo>
+    <icon>https://csbprd.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2025, 上海市延安初级中学</rights>
+    <entry>
+        <title type="html"><![CDATA[上海-北京-陕西]]></title>
+        <id>https://csbprd.github.io/post/shang-hai-bei-jing-shan-xi 2/</id>
+        <link href="https://csbprd.github.io/post/shang-hai-bei-jing-shan-xi 2/">
+        </link>
+        <updated>2025-05-08T12:41:26.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上海-北京-陕西]]></title>
+        <id>https://csbprd.github.io/post/shang-hai-bei-jing-shan-xi 1/</id>
+        <link href="https://csbprd.github.io/post/shang-hai-bei-jing-shan-xi 1/">
+        </link>
+        <updated>2025-05-08T12:40:35.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上海-重庆-西藏]]></title>
+        <id>https://csbprd.github.io/post/shang-hai-chong-qing-xi-zang/</id>
+        <link href="https://csbprd.github.io/post/shang-hai-chong-qing-xi-zang/">
+        </link>
+        <updated>2025-05-08T12:37:42.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上海-浙江-重庆]]></title>
+        <id>https://csbprd.github.io/post/shang-hai-zhe-jiang-chong-qing/</id>
+        <link href="https://csbprd.github.io/post/shang-hai-zhe-jiang-chong-qing/">
+        </link>
+        <updated>2025-05-08T12:37:01.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上海-四川-河南]]></title>
+        <id>https://csbprd.github.io/post/shang-hai-si-chuan-he-nan 2/</id>
+        <link href="https://csbprd.github.io/post/shang-hai-si-chuan-he-nan 2/">
+        </link>
+        <updated>2025-05-08T12:35:52.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上海-四川-河南]]></title>
+        <id>https://csbprd.github.io/post/shang-hai-si-chuan-he-nan 1/</id>
+        <link href="https://csbprd.github.io/post/shang-hai-si-chuan-he-nan 1/">
+        </link>
+        <updated>2025-05-08T12:34:55.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上海-广东-云南]]></title>
+        <id>https://csbprd.github.io/post/shang-hai-guang-dong-yun-nan/</id>
+        <link href="https://csbprd.github.io/post/shang-hai-guang-dong-yun-nan/">
+        </link>
+        <updated>2025-05-08T12:34:14.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上海-广东-云南]]></title>
+        <id>https://csbprd.github.io/post/shang-hai-guang-dong-yun-nan 1/</id>
+        <link href="https://csbprd.github.io/post/shang-hai-guang-dong-yun-nan 1/">
+        </link>
+        <updated>2025-05-08T12:33:18.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上海-四川-浙江]]></title>
+        <id>https://csbprd.github.io/post/shang-hai-si-chuan-zhe-jiang/</id>
+        <link href="https://csbprd.github.io/post/shang-hai-si-chuan-zhe-jiang/">
+        </link>
+        <updated>2025-05-08T12:31:48.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上海-四川-山西]]></title>
+        <id>https://csbprd.github.io/post/shang-hai-si-chuan-shan-xi/</id>
+        <link href="https://csbprd.github.io/post/shang-hai-si-chuan-shan-xi/">
+        </link>
+        <updated>2025-05-08T12:30:43.000Z</updated>
+    </entry>
+</feed>
